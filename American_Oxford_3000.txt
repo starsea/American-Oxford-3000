@@ -62,7 +62,6 @@ add
 addition
 additional
 address
-adj.
 administration
 admire
 admit
@@ -1709,7 +1708,6 @@ my
 myself
 mysterious
 mystery
-n.
 nail
 name
 narrative
@@ -2819,7 +2817,6 @@ useful
 user
 usual
 usually
-v.
 vacation
 valley
 valuable
