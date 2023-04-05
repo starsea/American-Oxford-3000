@@ -1,1 +1,3 @@
 # American-Oxford-3000
+
+The American-Oxford-3000 is a sorted and de-duplicated list of the most important and commonly used words in the English language. It was compiled using data from the Oxford English Corpus, and is an essential tool for improving English language skills. The list can be used for learning, memorization, testing, and reading in context. Contributions to the list are welcome via Github pull requests. By mastering the American-Oxford-3000, learners can quickly and effectively build their vocabulary and communicate more effectively in both written and spoken English.
