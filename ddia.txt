@@ -1,0 +1,28 @@
+fundamental
+distributed
+introduce
+terminology
+approach
+reliability
+scalability
+maintainability
+achieve
+compares
+visible
+distinguishing
+appropriate
+situations
+internals
+storage engines
+lay out
+optimized
+workloads
+choosing
+effect
+performance
+various
+formats
+serialization
+requirements
+schemas
+adapt
